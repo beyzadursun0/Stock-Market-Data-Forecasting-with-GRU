@@ -71,9 +71,11 @@ Her model için aşağıdaki performans metrikleri hesaplanmaktadır:
 
 Kod GPU destekliyse GPU üzerinden çalışır, değilse CPU kullanılır. TensorFlow GPU desteği varsa otomatik olarak algılanır.
 
-## 📝 Lisans
 
-Bu proje açık kaynak olup kişisel veya akademik çalışmalarda kullanılabilir.
+## Lisans
+
+Bu proje MIT lisansı ile lisanslanmıştır. Dilediğiniz gibi kullanabilir, değiştirebilir ve dağıtabilirsiniz. Ancak kaynak belirtilmelidir. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.
+
 
 ---
 
